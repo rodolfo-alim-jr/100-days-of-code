@@ -28,3 +28,8 @@ On Day 5, I have managed to complete the Paws Center website, and uploaded it to
 On Day 6, I have managed to complete the Sass crash course training. I was impressed with how neat and organized my css codes looked like especially when writing it in a sass file.
 I didn't managed to learn all the commands but it gave me a foundation to use at least the basic and mostly used commands/syntax. I have also finished another single page website styling it using Sass.
 
+## Day 7: JavaScript Crash course
+
+On Day 7, I started taking JavaScript crash course and built mini projects along with it. Most of the projects created were based on the mini projects from Coding Addict.
+
+
